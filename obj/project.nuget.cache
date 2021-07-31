@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5q5dFD/Ajs1bbqJTzolTEmPtGvL5vOY4t3F/ZlRzg4z1K/bvcSkbY4v8o2VmJBM2b6BhZ6XsV5yGi2Y1vVe7nQ==",
+  "dgSpecHash": "pn66vZgExDgln843keQtXQWUKJtw19QumuSjV9F45vCW6IvWlZh5U58c9unR87DlJLQuICaoB8tKucIPNi6Jxg==",
   "success": true,
   "projectFilePath": "C:\\Users\\shaik zuhair ahamed\\source\\repos\\ProBlazorNew\\ProBlazorNew.csproj",
   "expectedPackageFiles": [
@@ -90,7 +90,9 @@
     "C:\\Users\\shaik zuhair ahamed\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\shaik zuhair ahamed\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\shaik zuhair ahamed\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\shaik zuhair ahamed\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\shaik zuhair ahamed\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\shaik zuhair ahamed\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\shaik zuhair ahamed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
   ],
   "logs": []
 }
