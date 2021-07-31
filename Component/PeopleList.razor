@@ -45,7 +45,7 @@
                 return _people;
             }
             else {
-                var listofpeopel = Context.Peoples.ToList();
+                var listofpeopel = Context.People.ToList();
                 listofpeopel.ForEach(p => {
                     var personEntityEntry = Context.Entry(p);
                     personEntityEntry.Reference(p => p.Department).Load();

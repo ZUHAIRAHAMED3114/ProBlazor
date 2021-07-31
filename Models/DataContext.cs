@@ -6,14 +6,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ProBlazorNew.Models
 {
-    public class DataContext :DbContext
+    public class DataContext : DbContext
     {
-        public DataContext(DbContextOptions<DataContext> opts):base(opts) { 
-        }
-
-        public DbSet<Person> Peoples { get; set; }
+        public DataContext(DbContextOptions<DataContext> opts)
+        : base(opts) { }
+        public DbSet<Person> People { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Location> Locations { get; set; }
-        
     }
 }

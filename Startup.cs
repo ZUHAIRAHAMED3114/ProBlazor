@@ -63,7 +63,7 @@ namespace ProBlazorNew
                 endpoints.MapBlazorHub();
                 endpoints.MapFallbackToPage("/_Host");
             });
-            SeedData.SeedDataBase(context);
+           SeedData.SeedDatabase(context);
         }
     }
 }
