@@ -23,7 +23,7 @@
 
 <div class="form-group">
     <label for="city"> City</label>
-    <select>
+    <select name="city" class="form-control" @bind="SelectedCity">
         <option disabled selected> Select City</option>
         @foreach (string city in Cites) { 
             <option selected="@(SelectedCity==city)" value="@city"> @city</option>
