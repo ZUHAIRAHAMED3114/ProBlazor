@@ -77,6 +77,13 @@ using ProBlazorNew.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 10 "C:\Users\shaik zuhair ahamed\source\repos\ProBlazorNew\_Imports.razor"
+using ProBlazorNew.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\shaik zuhair ahamed\source\repos\ProBlazorNew\Pages\FetchData.razor"
 using ProBlazorNew.Data;
 

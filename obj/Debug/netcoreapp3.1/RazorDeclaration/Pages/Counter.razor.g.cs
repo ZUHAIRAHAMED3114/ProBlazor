@@ -76,6 +76,13 @@ using ProBlazorNew.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Users\shaik zuhair ahamed\source\repos\ProBlazorNew\_Imports.razor"
+using ProBlazorNew.Models;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {
