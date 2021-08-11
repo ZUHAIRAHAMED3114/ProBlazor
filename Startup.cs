@@ -19,6 +19,8 @@ namespace ProBlazorNew
     public class Startup
     {
         // iam editing the file for cheking what are the changes happening in the git
+        
+        // this is second time i was editing
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
